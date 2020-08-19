@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.topbar{
+	height:60px;
+	width:100%;
+	background-color: deeppink;
+	border:2px solid ;
+	text-shadow: 2px 3px red;
+
+}
+.a{
+	height:55px;
+	min-width:1000px;
+	background-color: hotpink;
+	line-height: 55px;
+	color: white;}
+.b{
+		
+		/*height: 1200px;
+		width:1500px;
+		border: 2px solid red;
+		background-image :url(../img/w.jpeg);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	*/}
+
+}
+.c{
+	height: 1200px;
+	width: 500px;
+	background-image :url(../img/w.jpeg);
+}
+img{
+	width:100%;
+	
+}
+a{
+	text-decoration: none;
+}

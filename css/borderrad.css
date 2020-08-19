@@ -1,0 +1,14 @@
+.bordercolor{
+			border:30px solid;
+			height:100px;
+			width: 160px;
+			border-radius: 10px 50px 30px 40px;
+		}
+.borderimage{
+	border: 20px solid transparent;
+    padding: 15px;
+    border-image: url(../img/12.jpg) 60 round;
+    width: 400px;
+    height: 400px;
+    
+}

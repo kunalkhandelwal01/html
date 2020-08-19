@@ -1,0 +1,36 @@
+.a{
+	height: 2000px;
+	width: 1500px;
+	border: 1px solid;
+}
+.topbar{
+	height:125px;
+	width:1500px;
+	background-color: black;
+}
+.b{
+	border: 1px solid black;
+	background-color: cadetblue;
+	height: 35px;
+	padding: 20px;
+}
+
+.c{
+	border: 1px solid;
+	height: 50px;
+	width: 1200px;
+	margin: auto;
+	background-color: red;
+	margin-top: 40px;
+}
+.d{
+	float:left;
+	height: 550px;
+	width: 300px;
+	border: 1px solid white;
+	margin-left: 25px;
+}
+
+a{
+	text-decoration: none;
+}

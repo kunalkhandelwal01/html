@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.topbar{
+	height: 86px;
+	width: 1500px;
+	border: 2px solid  ;
+	background-color: blue;
+}
+.a{
+	border: 1px solid;
+	height: 10px;
+	width: 1200px;
+	width: auto;
+}
+.b{
+
+	background-image :url(../img/t6.png);
+}

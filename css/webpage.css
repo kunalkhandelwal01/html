@@ -1,0 +1,42 @@
+{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.main{
+	border: 1px solid;
+	width: 1000px;
+	height: 1500px;
+	margin: auto;
+
+}
+.topbar{
+		height: 50px;
+	background:blue;
+
+
+}
+.space{
+	width:970px;
+	margin:auto;
+}
+.a{
+	height: 80px;
+	background:pink;
+	line-height: 80px;
+}
+.b{
+	height:50px;
+	background-color: black;
+	line-height: 44px;
+}
+.c{
+	float: left;
+	border: 1px solid;
+	margin: 2px;
+	height: 570px;
+	width: 325px;
+	text-align: justify;
+}
